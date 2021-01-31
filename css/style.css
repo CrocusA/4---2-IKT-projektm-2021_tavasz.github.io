@@ -54,6 +54,10 @@ color: blue;
 .body{
     color: ivory;
 }
+}
+.body h1{
+    color: ivory;
+}
 .footer{
     background-color: blue;
     color: white
