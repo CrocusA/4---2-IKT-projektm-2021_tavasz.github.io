@@ -46,7 +46,7 @@ color: blue;
 }
 
 .banner{
-    background-image: url(../img/hatter.jpg);
+    /*background-image: url(../img/hatter.jpg);*/
     height: 150px;
     background-position: center center;    
     background-size: cover;
