@@ -51,7 +51,12 @@ color: blue;
     background-position: center center;    
     background-size: cover;
 }
-
+.body{
+    color: ivory;
+}
+.body h1{
+    color: ivory;
+}
 .footer{
     background-color: blue;
     color: white
