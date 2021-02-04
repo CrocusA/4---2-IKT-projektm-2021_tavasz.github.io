@@ -48,11 +48,16 @@ color: blue;
 .banner{
     /*background-image: url(../img/hatter.jpg);*/
     height: 150px;
-    background-position: center center;    
-    background-size: cover;
+    /*background-position: center center;  */  
+    /*background-size: cover;*/
 }
 #rolunk{
     background-color: lightblue;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+#textalign-right{
+    text-align: right;
 }
 .footer{
     background-color: blue;
