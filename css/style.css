@@ -51,11 +51,8 @@ color: blue;
     background-position: center center;    
     background-size: cover;
 }
-.body{
-    color: ivory;
-}
-.body h1{
-    color: ivory;
+#rolunk{
+    background-color: lightblue;
 }
 .footer{
     background-color: blue;
