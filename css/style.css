@@ -90,3 +90,9 @@ footer li>img{
 .szerzo{
     text-align: right;
 }
+.festekval
+{
+   
+    display: flex;
+    justify-content: flex-end;
+}
