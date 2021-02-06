@@ -55,6 +55,7 @@ color: blue;
     background-color: lightblue;
     padding-top: 2rem;
     padding-bottom: 1rem;
+    max-width: 800px;
 }
 #textalign-right{
     text-align: right;
