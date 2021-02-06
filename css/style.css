@@ -18,7 +18,7 @@ nav{
     background-color:  blue;
     padding: 15px;
     position: fixed;
-    
+    z-index: 5;
 }
 
 nav a{
